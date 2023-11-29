@@ -2,8 +2,8 @@
 
 **`Digital Craftsman (Freelance React Developer)`**
 
-           I'm a solo developer building web applications for my self 
-           and clients to showcase my passion for the web to the world. 
+           I'm a solo developer building web applications for my self and clients 
+           to showcase my passion for the web to the world. 
 
    
 
