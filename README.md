@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Freelance React Developer)`**
 
-           I'm a Solo Indie dev.
+           I'm a Solo Indie dev. Ready to work. Checkout my Person Website. 
 
    
 
