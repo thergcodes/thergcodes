@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Freelance React Developer)`**
 
-           I'm a Solo Indie dev. Ready to work. Checkout my Personal Website below (Coming soon). 
+           I'm a Solo Indie dev. Ready to work. Checkout my Personal Website below (https://rmontedev.com/). 
 
    
 
